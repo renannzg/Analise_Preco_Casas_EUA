@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Ambientes Virtuais (se você usar na sua máquina)
+# Ambientes Virtuais
 .venv/
 venv/
 env/
@@ -13,12 +13,7 @@ ENV/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 
-# Arquivos de sistema operacional (como pastas de visualização do Windows)
+# Arquivos de sistema operacional
 Thumbs.db
 desktop.ini
 .DS_Store
-
-# Dados e Datasets grandes (opcional)
-# Se o arquivo train.csv for muito pesado, descomente a linha abaixo. 
-# Mas para trabalhos pequenos, manter o csv no github ajuda o professor a rodar.
-# data/
